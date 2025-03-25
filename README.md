@@ -57,24 +57,26 @@ Use the Stop Webcam button to terminate the detection.
 
 3.Features
 
-Real-time emotion detection from webcam feed.
+--Real-time emotion detection from webcam feed.
 
-Detects 7 distinct emotions: Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise.
+--Detects 7 distinct emotions: Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise.
 
-Intuitive and user-friendly interface.
+--Intuitive and user-friendly interface.
 
-Uses a deep learning model trained on the FER2013 dataset.
+--Uses a deep learning model trained on the FER2013 dataset.
 
 
 4.Technologies Used
 
-Streamlit
+-Streamlit
 
-OpenCV
+-OpenCV
 
-TensorFlow & Keras
+-TensorFlow & Keras
 
-Python
+-Python
+
+-Deep Learning
 
 
 5.Contributing
