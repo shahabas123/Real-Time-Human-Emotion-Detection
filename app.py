@@ -116,7 +116,7 @@ def main():
                     break
 
             video.release()
-            cv2.destroyAllWindows()    
+            #cv2.destroyAllWindows()    
 
         
 
