@@ -21,46 +21,41 @@ Table of Contents
 4.Technologies Used
 
 
-5.Screenshots
+5.Contributing
 
 
-6.Contributing
+6.Contact
 
 
-7.Contact
+1.Installation
 
-
-Installation
-
-1.Clone this repository:
+A.Clone this repository:
 
 git clone https://github.com/shahabas123/Real-Time-Human-Emotion-Detection.git
 
 
-2.Navigate to the project directory:
+B.Navigate to the project directory:
 
 cd Real-Time-Human-Emotion-Detection
 
 
-3.Install the required packages:
+C.Install the required packages:
 
 pip install -r requirements.txt
 
-4.Ensure you have the required Haarcascade XML file in the correct path.
+D.Ensure you have the required Haarcascade XML file in the correct path.
 
 
-Usage
+2.Usage
 
-Run the Streamlit application:
-
-streamlit run app.py
+Run the Streamlit application:  streamlit run app.py
 
 Go to the Live Detection section to start webcam-based real-time emotion detection.
 
 Use the Stop Webcam button to terminate the detection.
 
 
-Features
+3.Features
 
 Real-time emotion detection from webcam feed.
 
@@ -71,7 +66,7 @@ Intuitive and user-friendly interface.
 Uses a deep learning model trained on the FER2013 dataset.
 
 
-Technologies Used
+4.Technologies Used
 
 Streamlit
 
@@ -82,12 +77,12 @@ TensorFlow & Keras
 Python
 
 
-Contributing
+5.Contributing
 
 Feel free to open issues or submit pull requests. Contributions are welcome!
 
 
-Contact
+6.Contact
 
 Email: shahabasali751@gmail.com
 
