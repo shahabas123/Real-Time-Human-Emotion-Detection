@@ -37,8 +37,8 @@ def main():
     )       
 
         
-    model=load_model("model\emotion_model.h5")
-    face_cascade=cv2.CascadeClassifier("haarcascades\haarcascade_frontalface_default.xml")
+    model=load_model("model/emotion_model.h5")
+    face_cascade=cv2.CascadeClassifier("haarcascades/haarcascade_frontalface_default.xml")
     emotions=['angry','disgust','fear','happy','neutral','sad','surprise']
 
     def detect_emotion(frame):
