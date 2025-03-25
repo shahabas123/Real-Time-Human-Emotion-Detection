@@ -2,5 +2,5 @@ tensorflow
 keras
 opencv-python-headless==4.9.0.80
 streamlit
-numpy
+numpy==1.26.3
 pillow
