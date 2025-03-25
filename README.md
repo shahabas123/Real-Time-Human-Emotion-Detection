@@ -29,21 +29,21 @@ Table of Contents
 
 1.Installation
 
-A.Clone this repository:
+A. Clone this repository:
 
 git clone https://github.com/shahabas123/Real-Time-Human-Emotion-Detection.git
 
 
-B.Navigate to the project directory:
+B. Navigate to the project directory:
 
 cd Real-Time-Human-Emotion-Detection
 
 
-C.Install the required packages:
+C. Install the required packages:
 
 pip install -r requirements.txt
 
-D.Ensure you have the required Haarcascade XML file in the correct path.
+D. Ensure you have the required Haarcascade XML file in the correct path.
 
 
 2.Usage
